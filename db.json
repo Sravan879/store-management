@@ -1,0 +1,30 @@
+{
+     "products": [
+       {
+         "id": 1,
+         "storeName": "Store A",
+         "productName": "Product 1",
+         "description": "Description of Product 1",
+         "price": 100
+       },
+       {
+         "id": 2,
+         "storeName": "Store B",
+         "productName": "Product 2",
+         "description": "Description of Product 2",
+         "price": 150
+       }
+     ],
+     "invoices": [
+       {
+         "id": 1,
+         "storeName": "Store A",
+         "orderId": "ORD123",
+         "date": "2025-03-07",
+         "quantity": 2,
+         "regularPrice": 100,
+         "tax": 10
+       }
+     ]
+   }
+   
